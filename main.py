@@ -56,3 +56,4 @@ if (__name__=="__main__"):
     if(c=="y"):
         change_to_be_given(change,0)
     print("Thank you from shopping from us. Have a good day :)")
+    input()
